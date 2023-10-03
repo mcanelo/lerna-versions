@@ -35,4 +35,8 @@ const count = ref(0)
 .read-the-docs {
   color: #888;
 }
+
+.class-a {
+  width: 100%;
+}
 </style>
